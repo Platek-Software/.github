@@ -1,4 +1,4 @@
-## Hi there 👋
+Software projects with ties to various medias and arts.
 
 <!--
 
