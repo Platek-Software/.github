@@ -1,4 +1,3 @@
-<h1>Software projects with ties to various medias and arts.</h1>
 
 <!--
 
